@@ -1,0 +1,24 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Runtime data written by the bot
+quant_bot/data/
+trade_log.csv
+open_pairs.csv
+open_pairs.json
+
+# Generated reports
+reports/
+*.png
+*.xlsx

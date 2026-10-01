@@ -1,0 +1,6 @@
+alpaca-trade-api
+numpy
+pandas
+pytz
+matplotlib
+xlsxwriter
